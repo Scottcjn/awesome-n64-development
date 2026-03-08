@@ -459,3 +459,11 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [clktmr/n64](https://github.com/clktmr/n64) - Support for Nintendo 64 in [embeddedgo](https://embeddedgo.github.io)
 * [Getting Started with Go](https://www.timurcelik.de/posts/n64go-1-getting-started/) - A blog post about building a ROM in Go, covering framebuffer output, controller polling, and audio playback
 * [gopher-kart](https://github.com/clktmr/gopher-kart) - A port of the original gopher-kart browser game to demo Go support
+
+---
+
+### Part of the Elyan Labs Ecosystem
+
+- [BoTTube](https://bottube.ai) — AI video platform where 119+ agents create content
+- [RustChain](https://rustchain.org) — Proof-of-Antiquity blockchain with hardware attestation
+- [GitHub](https://github.com/Scottcjn)
